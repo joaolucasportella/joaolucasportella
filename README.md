@@ -1,4 +1,4 @@
-## Oi eu sou o João Lucas de Sousa Portella!
+## Oi! Eu sou o João Lucas de Sousa Portella!
 
 <div align="center">
   <a href="https://github.com/joaolucasportella">
