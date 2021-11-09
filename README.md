@@ -1,12 +1,14 @@
-## Olá! Eu sou o João Lucas de Sousa Portella 👋🏻
+### Olá! Eu sou o João Lucas de Sousa Portella 👋🏻
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/joaolucasportella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucasportella&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasportella&layout=compact&langs_count=7&theme=github_dark"/>-->
 </div>
   
-<div style="display: inline_block"><br>
+### Tecnologias que uso!
+  
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
