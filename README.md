@@ -52,4 +52,4 @@ I'm a passionate Software Developer with a commitment to writing efficient and m
 
 [![wakatime](https://wakatime.com/badge/user/5ecff628-087f-4f9a-89ed-dd6279eac88b.svg?style=for-the-badge)](https://wakatime.com/@5ecff628-087f-4f9a-89ed-dd6279eac88b)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=portella&theme=github_dark&layout=compact&border_radius=0"/>
+<img src="https://wakatime.com/share/@portella/e960adcf-9eb1-4c05-a7d0-046843c8d851.svg" alt="WakaTime Stats" width="60%">
